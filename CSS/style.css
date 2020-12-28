@@ -18,18 +18,20 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
+    
+    
 }
 
 .section-Image p{
     color:#fff;
     font-size: 50px;
+    padding-top: 100px;
+    margin-left: 25px;
 }
 .section-Image label{
     color:#fff;
     font-size: 30px;
-    padding-left: 25px;
-    padding-top: 100px;
-
+    margin-left: 25px;
 }
 
 
