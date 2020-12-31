@@ -75,12 +75,13 @@
 }
 
 .form_horizontal .form-options li a{
-    color: #fff;
+    color: #ecf0f1;
     letter-spacing: 0.5px;
     margin: 0 0 10px;
     display: block;
 }
 
 .form_horizontal .form-options li a i{
-    font-size: 12px;
+    font-size: 14px;
+    font-weight: bold;
 }
